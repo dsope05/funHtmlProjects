@@ -1,0 +1,8 @@
+.gold {
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: yellow;
+  font-size: 30px;
+} 
+.standard {
+  font-size: 30px; 
+}
